@@ -30,5 +30,5 @@ async function fetchCityPromise() {
 
 }  
 
-console.log(fetchCity());
+
 console.log(fetchCityPromise());

@@ -13,4 +13,4 @@ function hoistedFunc() {
   console.log("I work!");
 }
 
-//aqui sempre vai dar porque é uma função 
+//aqui sempre vai dar porque é uma função

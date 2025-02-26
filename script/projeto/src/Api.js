@@ -10,7 +10,7 @@ export async function Api(title) {
   const response = await fetch(url);
   
   if (!response.ok) {
-    throw new Error('Erro ao buscar dados da API');
+    throw new Error('API inválidas, problemas de rede');
   }
 
   const data = await response.json();

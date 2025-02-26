@@ -1,0 +1,17 @@
+{
+  "name": "projeto",
+  "version": "0.1.0",
+  "description": "projeto final",
+  "main": "./src/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomas migue <tomas_miguel@eticalgarve.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "node-fetch": "^3.3.2"
+  },
+  "keywords": []
+}
